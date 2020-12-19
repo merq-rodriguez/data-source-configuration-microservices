@@ -1,5 +1,5 @@
 server:
-  port: 3002
+  port: 3003
 
 environment: production
 label: Quantux Production XD XD XD
